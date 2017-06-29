@@ -1,6 +1,6 @@
 * {
   background-color: black;
-  text-align:center;
+  text-align: center;
   font-family: Verdana;
 }
 
@@ -17,6 +17,7 @@ a {
 h2 {
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 
 p {
